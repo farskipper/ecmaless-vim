@@ -10,7 +10,7 @@ syn keyword ecmalessStatement do end return break continue
 
 syn keyword ecmalessOperator not and or xor
 
-syn keyword ecmalessTypedef def ann type
+syn keyword ecmalessTypedef def ann set
 
 syn keyword ecmalessModule import export is as
 
